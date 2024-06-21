@@ -1,0 +1,25 @@
+div{
+    height:100px;
+    width:100px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size:20px;
+    color:#fff;
+    margin: 30px 20px;
+    border-radius:20px;
+    transform:rotate(20deg);
+}
+#red{
+    background-color: red;
+}
+#blue{
+    background-color: blue;
+}
+#green{
+    background-color: #0f0;
+}
+#black{
+    background-color: black;
+}
